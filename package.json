@@ -1,0 +1,22 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "description": "### Authors: Jonny, Gurinder, and Aileen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oauth-legends/lab-12.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oauth-legends/lab-12/issues"
+  },
+  "homepage": "https://github.com/oauth-legends/lab-12#readme"
+}
