@@ -1,9 +1,9 @@
-# LAB - 13
+# LAB - 12
 
-### Author: Jonny Graybill and Adriana Graybill
+### Authors: Jonny, Gurinder, and Aileen
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-jonnygraybill/lab-13/pull/1) 
+* [submission PR]() 
 
 * [travis]([![Build Status](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-11.svg?branch=auth)](https://www.travis-ci.com/401-advanced-javascript-jonnygraybill/lab-11))
 
@@ -36,5 +36,5 @@
 #### Tests
 * npm test
 
-### UML
-![UML](./assets/lab-11-uml.jpg)
+<!-- ### UML
+![UML](./assets/) -->
